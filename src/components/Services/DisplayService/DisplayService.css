@@ -1,0 +1,11 @@
+.singleCard-img{
+    width: 400px;
+    height: 400px;
+}
+.singleCard-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.singleCard-description{
+font-size: 20px;
+}

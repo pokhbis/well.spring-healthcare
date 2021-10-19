@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Balance Body & Mind",
+        "img": "https://st2.depositphotos.com/1768926/7271/v/950/depositphotos_72716095-stock-illustration-lotus-logo.jpg",
+        "description": "When we think about health, diet and exercise are typically the first things that come to mind.Our mind and body are interconnected and affect each other tremendously. "
+    },
+    {
+        "id": "2",
+        "title": "Healthy Daily Life",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtuBgz98Z2kJQ_SDfcmYCdy0ws-L6AVz2JEs8rxAXLhHO6KOaOX34wPqgMuAhcmirm7w&usqp=CAU",
+        "description": "Creating a healthy daily routine is a simple yet effective way to build consistency when it comes to your health. Not only does your daily routine impact your overall health."
+    },
+    {
+        "id": "3",
+        "title": "Nutrition Strategies",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NV0-mpWwnv-azth99LF6TBLKOVXdldUW0SokIuFda49zxd7owJz7qMdxfTmeZgqi74o&usqp=CAU",
+        "description": "Following these nutritional strategies can help you reduce or even eliminate some risk factors, such as reducing total and LDL; lowering blood pressure, blood sugars and triglycerides."
+    },
+    {
+        "id": "4",
+        "title": "Workout Routines",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiF--J7GpZNYbo1JWdsKpGfP_POMz9ud8WHYv2fpta9meTXOPv_10GKzknKp84mgSDYR4&usqp=CAU",
+        "description": "This article reviews several high-quality exercise regimens for men of all experience levels to maximize muscle and strength gains while ensuring adequate recovery."
+    },
+    {
+        "id": "5",
+        "title": "Stress Management",
+        "img": "https://thumbs.dreamstime.com/b/stress-management-skills-skills-multitasking-stress-icon-vector-image-can-also-be-used-soft-skills-suitable-mobile-apps-100322640.jpg",
+        "description": "Stress management is a wide spectrum of techniques help a person's level of stress, especially chronic stress, usually for the purpose of and for the motive of improving everyday functioning."
+    },
+    {
+        "id": "6",
+        "title": "Child's Mental Care",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJatTSvNFU0EgW2xwAgDkTV0l19NArDCWv8w&usqp=CAU",
+        "description": "Mental health in childhood means reaching developmental and emotional milestones, and learning healthy social skills and how to cope when there are problems."
+    }
+]

@@ -1,0 +1,12 @@
+/* .grid-container {
+    display: grid;
+    grid-template-columns: 80px 200px auto 40px;
+  } */
+  .p-img{
+      border-bottom: 2px solid gray;
+      border-right: 2px solid gray;
+  }
+  .p-img-middle{
+      border-right: 2px solid gray;
+      /* border-left: 2px solid gray; */
+  }

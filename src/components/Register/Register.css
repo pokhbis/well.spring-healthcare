@@ -1,0 +1,9 @@
+/* .register-input{
+  width: 45%; 
+ margin-left: 50px;
+} */
+.register-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

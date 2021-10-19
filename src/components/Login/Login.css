@@ -1,0 +1,14 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-submit{
+    background-color: crimson;
+    color: white;
+    font-weight: 600;
+    border: 20px;
+    padding: 10px 20px;
+    border-radius: 2px solid gray;
+    
+}

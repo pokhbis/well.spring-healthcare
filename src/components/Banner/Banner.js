@@ -3,7 +3,7 @@ import './Banner.css';
 const Banner = () => {
     return (
         <div>
-
+            {/* banner image section */}
             <div className="banner d-flex justify-content-center align-items-center">
                 <div className="container">
                     <div className="row">
@@ -13,7 +13,7 @@ const Banner = () => {
                             <button className="header-btn">Purchase</button>
                         </div>
                         <div className="col-md-4">
-                            {/* <h3>col-2</h3> */}
+
                         </div>
                     </div>
                 </div>

@@ -5,10 +5,8 @@
     background-repeat: no-repeat;
     background-position: center;
     background-blend-mode: overlay;
-    
 }
 .banner-title-text{
-    /* font-family: 'Times New Roman', Times, serif; */
     font-family:cursive;
     color: rgb(25, 25, 184);
     font-weight: 700;

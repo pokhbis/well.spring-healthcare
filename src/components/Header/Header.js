@@ -16,10 +16,10 @@ const Header = () => {
 
                     </div>
 
-
                     <div className="col-md-10">
 
                         <div className="header-items">
+                            {/* header navbar  options*/}
                             <ul className="d-flex align-items-end justify-content-end pt-4 me-5">
                                 <Link to="/home" className="item">Home</Link>
                                 <Link to="/services" className="item">Services</Link>
@@ -37,13 +37,6 @@ const Header = () => {
                                         <Link to="/login" className="item">Login</Link>
 
                                 }
-                                {/* 
-                                <li className="item">Services</li>
-                                <li className="item">Partners</li>
-                                <li className="item">Blog</li>
-                                <li className="item">Register</li>
-                                <li className="item">Login</li>
-                                <li className="item">Logout</li> */}
 
                             </ul>
 

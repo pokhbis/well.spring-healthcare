@@ -3,10 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { fab, faTwitterSquare, faFacebook, faLinkedin } from "@fortawesome/free-solid-svg-icons";
-import { faCoffee } from "@fortawesome/free-solid-svg-icons";
-import { faTwitterSquare } from "@fortawesome/free-solid-svg-icons";
 
 ReactDOM.render(
   <React.StrictMode>

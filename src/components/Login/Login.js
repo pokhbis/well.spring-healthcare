@@ -18,11 +18,9 @@ const Login = () => {
             })
     }
 
-
     return (
 
 
-        /////original
 
         <div className="login-form">
 
@@ -52,3 +50,5 @@ const Login = () => {
 };
 
 export default Login;
+
+

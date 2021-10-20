@@ -24,6 +24,7 @@ import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import DisplayService from './components/Services/DisplayService/DisplayService';
 import GetService from './components/GetService/GetService';
 
+
 function App() {
   return (
     <div className="App">
@@ -39,7 +40,6 @@ function App() {
             <Route exact path='/home'>
               <Home></Home>
             </Route>
-
             <Route path='/banner'>
               <Banner></Banner>
             </Route>

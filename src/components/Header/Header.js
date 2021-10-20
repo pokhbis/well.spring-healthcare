@@ -26,6 +26,7 @@ const Header = () => {
                                 <Link to="/partners" className="item">Partners</Link>
                                 <Link to="/blog" className="item">Blog</Link>
                                 <Link to="/register" className="item">Register</Link>
+
                                 {user.email &&
                                     <span style={{ color: "blue ", fontWeight: "bold", paddingBottom: "10px" }}>Hello {user.displayName}</span>
                                 }

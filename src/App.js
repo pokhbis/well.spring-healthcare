@@ -52,9 +52,9 @@ function App() {
             <Route path='/partners'>
               <Partner></Partner>
             </Route>
-            <Route path='/blog'>
+            <PrivateRoute path='/blog'>
               <Blog></Blog>
-            </Route>
+            </PrivateRoute>
             <Route path='/login'>
               <Login></Login>
             </Route>

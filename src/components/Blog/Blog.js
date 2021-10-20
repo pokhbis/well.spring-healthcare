@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Blog.css';
 const Blog = () => {
     return (
@@ -18,7 +19,7 @@ const Blog = () => {
                             {/* section-1 */}
                             <h3>Connect With Nature</h3>
                             <p>For thousands of years people have been going into nature to seek a connection with something greater than themselves.With one small swap to organic, you can take a tangible action.</p>
-                            <button className="header-btn">Read More</button>
+                            <Link to={'/blog'}><button className="header-btn">Read More</button></Link>
                         </div>
                         <div className="col-lg-3 col-md-6 ">
                             <div className="">
@@ -27,7 +28,7 @@ const Blog = () => {
                             {/* section-2 */}
                             <h3>Go Natural</h3>
                             <p>Because organic works with nature, not against it, by protecting our soil,  our world. With one small swap to organic, you can take a tangible action to support a more sustainable future for the world.</p>
-                            <button className="header-btn">Read More</button>
+                            <Link to={'/blog'}><button className="header-btn">Read More</button></Link>
                         </div>
                         <div className="col-lg-3 col-md-6 ">
                             <div className="">
@@ -36,7 +37,7 @@ const Blog = () => {
                             {/* section-3*/}
                             <h3>Schedule Exercise</h3>
                             <p>There is no single type of exercise that can take care of all your needs. In fact, to get the most benefits from your routine, you want a mix of activities during  most benefits from the course of a week.  </p>
-                            <button className="header-btn">Read More</button>
+                            <Link to={'/blog'}><button className="header-btn">Read More</button></Link>
                         </div>
                         <div className="col-lg-3 col-md-6">
                             <div className="">
@@ -45,7 +46,7 @@ const Blog = () => {
                             {/* section-4 */}
                             <h3>Celebrate Success</h3>
                             <p>By celebrating our success, we reinforce the motivation that will carry us through the next achievement. This is important for you individually as well as  most benefits from for your organization. </p>
-                            <button className="header-btn">Read More</button>
+                            <Link to={'/blog'}><button className="header-btn">Read More</button></Link>
                         </div>
                     </div>
                 </div>

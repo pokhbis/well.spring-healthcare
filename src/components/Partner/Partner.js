@@ -23,7 +23,7 @@ const Partner = () => {
                     <div className="d-flex m-5">
                         <div className="col-md-6 mt-5">
                             <h3>Our Happy Partners</h3>
-                            <p className="text-start ">In this 4 years journey, with the intension of making people healthy and happy; introduced us with various well known organization. We are happy to serve them with our knowledge as well as products. It's a great pleasure that we have changed numerous lives in those years.  </p>
+                            <p className="text-start ">In this 4+ years journey, with the intension of making people healthy and happy; introduced us with various well known organization. We are happy to serve them with our knowledge as well as products. It's a great pleasure that we have changed numerous lives in those years.  </p>
                         </div>
                         <div className="col-md-6 ms-4">
                             <div className="row">

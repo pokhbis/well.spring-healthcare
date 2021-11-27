@@ -4,16 +4,16 @@ To visit the website please click [Well.Spring](https://assignment-10-36550.web.
 
 ## About Well.Spring
 
-Well.Spring is one of the leading health care providing institute in this country. It started is's journey with 12 well trained health enthusiasts with the intention of making every life happy and healthy. In this 4 years it served more than 8 thousand people who need special kind of health care support compare to conventional hospital. We will go with the motto of making every life happy.
+Well.Spring is a health care services providing institute related website. It facilitates services related to mental, psychological as well as general health. User can enroll to receive their desired services through this website. Clients have to register to get the services. General health related instructions are also provided through blog. 
 
 ### Five Bullet Points About Well.Spring :
 
-#### 1. This website has been built using React, Bootstrap, Vanilla CSS and some other frame work.
+#### 1. This website has been built using React, Bootstrap and Vanilla CSS.
 
-#### 2. This website fulfills all the requirement asked by P.Hero team.
+#### 2. User can book their intended services through this website.
 
-#### 3. All code and components are optimized at the best possible ways.
+#### 3. To enroll for a service, clients have to register and log-in into the website.
 
-#### 4. All rights about code, other components, and frame works are reserved by the development team.
+#### 4. Private routing has been implemented and it is responsive for desktop as well as mobile platform.
 
-#### 5. User should read all the related documents before using this website, as health care is a sensitive field. We don't take any responsibility if treatment method fails or any loss of health or life happens. 
+#### 5. Blog section provide instructions to live a healthy, stress free life style. 
